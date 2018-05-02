@@ -1,1 +1,1 @@
-Python exercises 
+Python programming exercises 
